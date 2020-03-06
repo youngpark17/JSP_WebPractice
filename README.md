@@ -5,3 +5,4 @@
 - jsp bean 이용해서 연동
 - mysql 사용
 - 오탈자 주의...
+![](https://i.imgur.com/EGbrSOZ.png)
