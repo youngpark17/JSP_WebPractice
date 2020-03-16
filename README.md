@@ -23,4 +23,8 @@ youtube 동빈나 강좌
 ![](https://i.imgur.com/H5Yx2Hh.png)
 
 
+##20. 03. 16
 
+- 게시판 메인 화면 꾸밈!
+- 
+![](https://i.imgur.com/zK2cqtF.png)
